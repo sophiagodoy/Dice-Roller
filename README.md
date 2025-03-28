@@ -6,6 +6,6 @@ Este aplicativo oferece uma interface moderna utilizando **Jetpack Compose**, pe
 1. **Baixe e instale o Android Studio** (se ainda não tiver).
 2. Clone este repositório:
    ```sh
-   git clone git@github.com:sophiagodoy/dice_roller.git
+   git@github.com:sophiagodoy/Dice-Roller.git
 
 ✨ **Divirta-se jogando!** ✨  
